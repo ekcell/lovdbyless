@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/home/lee/work/mine/ruby/rails/lovdbyless/app/controllers/application.rb</file>
+        <file>file:/home/lee/work/mine/ruby/rails/lovdbyless/app/controllers/blogs_controller.rb</file>
+        <file>file:/home/lee/work/mine/ruby/rails/lovdbyless/app/controllers/comments_controller.rb</file>
+        <file>file:/home/lee/work/mine/ruby/rails/lovdbyless/app/controllers/feed_items_controller.rb</file>
+        <file>file:/home/lee/work/mine/ruby/rails/lovdbyless/app/controllers/forum_posts_controller.rb</file>
+        <file>file:/home/lee/work/mine/ruby/rails/lovdbyless/app/controllers/forum_topics_controller.rb</file>
+        <file>file:/home/lee/work/mine/ruby/rails/lovdbyless/app/helpers/comments_helper.rb</file>
+        <file>file:/home/lee/work/mine/ruby/rails/lovdbyless/app/helpers/feed_items_helper.rb</file>
+        <file>file:/home/lee/work/mine/ruby/rails/lovdbyless/app/models/user.rb</file>
+        <file>file:/home/lee/work/mine/ruby/rails/lovdbyless/app/views/forum_mailer/new_post.html.erb</file>
+        <file>file:/home/lee/work/mine/ruby/rails/lovdbyless/config/database.yml</file>
+        <file>file:/home/lee/work/mine/ruby/rails/lovdbyless/config/environment.rb</file>
+        <file>file:/home/lee/work/mine/ruby/rails/lovdbyless/config/environments/development.rb</file>
+        <file>file:/home/lee/work/mine/ruby/rails/lovdbyless/config/initializers/exception_notifier.rb</file>
+        <file>file:/home/lee/work/mine/ruby/rails/lovdbyless/lib/forums_test_helper.rb</file>
+        <file>file:/home/lee/work/mine/ruby/rails/lovdbyless/lib/tasks/getting_started.rake</file>
+        <file>file:/home/lee/work/mine/ruby/rails/lovdbyless/lib/tasks/js_routes.rake</file>
+        <file>file:/home/lee/work/mine/ruby/rails/lovdbyless/lib/tasks/migrate.rake</file>
+        <file>file:/home/lee/work/mine/ruby/rails/lovdbyless/test/integration/spider_test.rb</file>
+    </open-files>
+</project-private>
